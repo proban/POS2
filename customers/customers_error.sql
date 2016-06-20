@@ -1,0 +1,87 @@
+-- phpMyAdmin SQL Dump
+-- version 4.2.7.1
+-- http://www.phpmyadmin.net
+--
+-- Host: 127.0.0.1:5025
+-- Generation Time: Jan 27, 2016 at 09:07 AM
+-- Server version: 5.6.20-log
+-- PHP Version: 5.5.15
+
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+SET time_zone = "+00:00";
+
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8 */;
+
+--
+-- Database: `f_dpk001proban`
+--
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `customers_error`
+--
+
+DROP TABLE IF EXISTS `customers_error`;
+CREATE TABLE IF NOT EXISTS `customers_error` (
+  `ID` varchar(100) NOT NULL,
+  `SEARCHKEY` varchar(100) NOT NULL,
+  `TAXID` varchar(100) DEFAULT NULL,
+  `NAME` varchar(100) NOT NULL,
+  `TAXCATEGORY` varchar(100) DEFAULT NULL,
+  `CARD` varchar(100) DEFAULT NULL,
+  `MAXDEBT` double NOT NULL DEFAULT '0',
+  `ADDRESS` varchar(100) DEFAULT NULL,
+  `ADDRESS2` varchar(100) DEFAULT NULL,
+  `POSTAL` varchar(100) DEFAULT NULL,
+  `CITY` varchar(100) DEFAULT NULL,
+  `REGION` varchar(100) DEFAULT NULL,
+  `COUNTRY` varchar(100) DEFAULT NULL,
+  `FIRSTNAME` varchar(100) DEFAULT NULL,
+  `LASTNAME` varchar(100) DEFAULT NULL,
+  `EMAIL` varchar(100) DEFAULT NULL,
+  `PHONE` varchar(100) DEFAULT NULL,
+  `PHONE2` varchar(100) DEFAULT NULL,
+  `FAX` varchar(100) DEFAULT NULL,
+  `NOTES` varchar(100) DEFAULT NULL,
+  `VISIBLE` bit(1) NOT NULL DEFAULT b'1',
+  `CURDATE` datetime DEFAULT NULL,
+  `CURDEBT` double DEFAULT '0',
+  `IMAGE` mediumblob,
+  `EMAIL2` varchar(100) DEFAULT NULL,
+  `BIRTH` varchar(100) DEFAULT NULL,
+  `VEHICLE` varchar(100) DEFAULT NULL,
+  `SEX` varchar(100) NOT NULL,
+  `POINT` double DEFAULT '0',
+  `POSTAL2` varchar(100) DEFAULT NULL,
+  `BIKE_BRAND` varchar(100) DEFAULT NULL,
+  `BIKE_TYPE` varchar(100) DEFAULT NULL,
+  `TYRE_BRAND` varchar(100) DEFAULT NULL,
+  `TYRE_SIZE` varchar(100) DEFAULT NULL,
+  `TYRE_TYPE` varchar(100) DEFAULT NULL,
+  `ACCU_BRAND` varchar(100) DEFAULT NULL,
+  `ACCU_TYPE` varchar(100) DEFAULT NULL,
+  `OIL_BRAND` varchar(100) DEFAULT NULL,
+  `BRAKE_TYPE` varchar(100) DEFAULT NULL,
+  `DATE_REGIS` datetime DEFAULT NULL,
+  `DATE_EXP` datetime DEFAULT NULL,
+  `POINT_TMP` double DEFAULT '0'
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
+
+--
+-- Indexes for dumped tables
+--
+
+--
+-- Indexes for table `customers_error`
+--
+ALTER TABLE `customers_error`
+ ADD PRIMARY KEY (`ID`), ADD UNIQUE KEY `CUSTOMERS_SKEY_INX` (`SEARCHKEY`), ADD KEY `CUSTOMERS_TAXCAT` (`TAXCATEGORY`), ADD KEY `CUSTOMERS_TAXID_INX` (`TAXID`), ADD KEY `CUSTOMERS_NAME_INX` (`NAME`), ADD KEY `CUSTOMERS_CARD_INX` (`CARD`);
+
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
