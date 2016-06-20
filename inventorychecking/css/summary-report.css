@@ -1,0 +1,139 @@
+table.summary-report th, table.summary-report td {
+	padding:10px 5px;
+	font-size : 70%;
+}
+
+table.summary-report th.small {
+	padding:10px 70px;
+	font-size : 70%;
+}
+
+table.summary-report th.medium {
+	padding:10px 100px;
+	font-size : 70%;
+}
+
+table.summary-report th.large 2
+	padding:10px 150px;
+	font-size : 70%;
+}
+
+table.summary-report td.addres {
+	padding:10px 230px;
+	font-size : 70%;
+}
+
+table.summary-report td.small {
+	padding:10px 70px;
+	font-size : 70%;
+}
+
+table.summary-report td.medium {
+	padding:10px 100px;
+	font-size : 70%;
+}
+
+table.summary-report td.large {
+	padding:10px 150px;
+	font-size : 70%;
+}
+
+table.summary-report td.small-left {
+	padding:70px 0px;
+	font-size : 70%;
+}
+
+table.summary-report td.medium-left {
+	padding:100px 0px;
+	font-size : 70%;
+}
+
+table.summary-report td.large-left {
+	padding:150px 0px;
+	font-size : 70%;
+}
+
+table.summary-report td.small-right {
+	padding:0px 70px;
+	font-size : 70%;
+}
+
+table.summary-report td.medium-right {
+	padding:0px 100px;
+	font-size : 70%;
+}
+
+table.summary-report td.large-right {
+	padding:0px 150px;
+	font-size : 70%;
+}
+
+table.summary-report th {
+	background-color:#666;
+	color:#FFF;
+	font-weight:bold;
+}
+
+table.summary-report >tr>td {
+	background-color:#FFF;
+	color:#333;
+	border-bottom:1px solid #ccc;
+	padding: 10px 5px;
+}
+
+table.summary-report>tbody>tr>td {
+	background-color:#FFF;
+	color:#333;
+	border-bottom:1px solid #ccc;
+	padding: 10px 5px;
+}
+
+table.summary-report td.amount, table.summary-report th.amount  {
+	text-align:right;
+}
+
+table.summary-report td.sum {
+	background-color:#999;
+	color:#ffffff;
+}
+
+
+table.summary-report td:even {
+	background-color:#FFF;
+	color:#333;
+}
+
+
+table.summary-report td:odd {
+	background-color:#CCC;
+	color:#333;
+}
+
+
+table.sub-summary-report td {
+	background-color:#FFF;
+	color:#333;
+	border: none;
+}
+
+
+.bulanan-details {
+	text-decoration:none;
+	color:#999999;
+}
+
+.bg-white {
+	background-color:#ffffff;
+}
+
+.bottom-line {
+	border-bottom:1px solid #cccccc;
+}
+
+.align-right {
+	text-align:right;
+}
+
+.border-right {
+	border-right:1px solid #cccccc;
+}
