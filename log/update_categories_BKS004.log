@@ -1,0 +1,651 @@
+2015-12-03 10:59:05AM>[SQL]=TRUNCATE TABLE categories;
+2015-12-03 10:59:05AM>[AFFECTED_ROWS]=0
+2015-12-03 10:59:05AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'motorpart', 'Motorpart', '', NULL, 'Motorpart', '1'
+				)
+2015-12-03 10:59:05AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:05AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'general', 'General', '', NULL, 'General', '1'
+				)
+2015-12-03 10:59:05AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:05AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'tires', 'Tires', '', NULL, 'Tires', '1'
+				)
+2015-12-03 10:59:05AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:05AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'tube-type', 'Tube Type', '', NULL, 'Tube Type', '1'
+				)
+2015-12-03 10:59:05AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:05AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'tubeless', 'Tubeless', '', NULL, 'Tubeless', '1'
+				)
+2015-12-03 10:59:05AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:05AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'inner-tube', 'Inner Tube', '', NULL, 'Inner Tube', '1'
+				)
+2015-12-03 10:59:05AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:05AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'valve', 'Valve', '', NULL, 'Valve', '1'
+				)
+2015-12-03 10:59:05AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:05AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'motor-support', 'Motor Support', '', NULL, 'Motor Support', '1'
+				)
+2015-12-03 10:59:05AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:05AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'part', 'Part', '', NULL, 'Part', '1'
+				)
+2015-12-03 10:59:05AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:05AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'battery', 'Battery', '', NULL, 'Battery', '1'
+				)
+2015-12-03 10:59:05AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:05AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'std-brake', 'Std Brake', '', NULL, 'Std Brake', '1'
+				)
+2015-12-03 10:59:05AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:05AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'std-drive-chain', 'Std Drive Chain & Transmission', '', NULL, 'Std Drive Chain & Transmission', '1'
+				)
+2015-12-03 10:59:05AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:05AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'chemical', 'Chemical', '', NULL, 'Chemical', '1'
+				)
+2015-12-03 10:59:05AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:05AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'oil', 'Oil', '', NULL, 'Oil', '1'
+				)
+2015-12-03 10:59:05AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:05AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'maintenance-chemical', 'Maintenance Chemical', '', NULL, 'Maintenance Chemical', '1'
+				)
+2015-12-03 10:59:05AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:05AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'food-service', 'Food Service', '', NULL, 'Food Service', '1'
+				)
+2015-12-03 10:59:05AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:05AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'cafe', 'Cafe', '', NULL, 'Cafe', '1'
+				)
+2015-12-03 10:59:05AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:05AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'cigarette', 'Cigarette', '', NULL, 'Cigarette', '1'
+				)
+2015-12-03 10:59:05AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:05AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'beverage', 'Beverage', '', NULL, 'Beverage', '1'
+				)
+2015-12-03 10:59:05AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:05AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'tools-1', 'Tools 1', '', NULL, 'Tools 1', '1'
+				)
+2015-12-03 10:59:05AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:05AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'brake-shoe', 'Brake Shoe', '', NULL, 'Brake Shoe', '1'
+				)
+2015-12-03 10:59:05AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:05AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'brake-pad', 'Brake Pad', '', NULL, 'Brake Pad', '1'
+				)
+2015-12-03 10:59:05AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:05AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'others', 'Others', '', NULL, 'Others', '1'
+				)
+2015-12-03 10:59:05AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:05AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'aspira-tt', 'ASPIRA TT', '', NULL, 'ASPIRA TT', '1'
+				)
+2015-12-03 10:59:05AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:05AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'battlax-tt', 'BATTLAX TT', '', NULL, 'BATTLAX TT', '1'
+				)
+2015-12-03 10:59:05AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:05AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'corsa-tt', 'CORSA TT', '', NULL, 'CORSA TT', '1'
+				)
+2015-12-03 10:59:05AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:05AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'dunlop-tt', 'DUNLOP TT', '', NULL, 'DUNLOP TT', '1'
+				)
+2015-12-03 10:59:05AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:05AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'fdr-tt', 'FDR TT', '', NULL, 'FDR TT', '1'
+				)
+2015-12-03 10:59:05AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:05AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'irc-tt', 'IRC TT', '', NULL, 'IRC TT', '1'
+				)
+2015-12-03 10:59:05AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:05AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'tiron-tt', 'TIRON TT', '', NULL, 'TIRON TT', '1'
+				)
+2015-12-03 10:59:05AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:05AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'zeneos-tt', 'ZENEOS TT', '', NULL, 'ZENEOS TT', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'aspira-tl', 'ASPIRA TL', '', NULL, 'ASPIRA TL', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'battlax-tl', 'BATTLAX TL', '', NULL, 'BATTLAX TL', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'corsa-tl', 'CORSA TL', '', NULL, 'CORSA TL', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'dunlop-tl', 'DUNLOP TL', '', NULL, 'DUNLOP TL', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'fdr-tl', 'FDR TL', '', NULL, 'FDR TL', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'irc-tl', 'IRC TL', '', NULL, 'IRC TL', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'aspira-tube', 'ASPIRA TUBE', '', NULL, 'ASPIRA TUBE', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'battlax-tube', 'BATTLAX TUBE', '', NULL, 'BATTLAX TUBE', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'corsa-tube', 'CORSA TUBE', '', NULL, 'CORSA TUBE', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'dunlop-tube', 'DUNLOP TUBE', '', NULL, 'DUNLOP TUBE', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'fdr-tube', 'FDR TUBE', '', NULL, 'FDR TUBE', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'irc-tube', 'IRC TUBE', '', NULL, 'IRC TUBE', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'tiron-tube', 'TIRON TUBE', '', NULL, 'TIRON TUBE', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'zeneos-tube', 'ZENEOS TUBE', '', NULL, 'ZENEOS TUBE', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'tiron-tl', 'TIRON TL', '', NULL, 'TIRON TL', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'zeneos-tl', 'ZENEOS TL', '', NULL, 'ZENEOS TL', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'pirelli-tl', 'PIRELLI TL', '', NULL, 'PIRELLI TL', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'oil-motul', 'OIL MOTUL', '', NULL, 'OIL MOTUL', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'oil-federal', 'OIL FEDERAL', '', NULL, 'OIL FEDERAL', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'oil-enduro', 'OIL ENDURO', '', NULL, 'OIL ENDURO', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'oil-yamalube', 'OIL YAMALUBE', '', NULL, 'OIL YAMALUBE', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'm-one', 'M-ONE', '', NULL, 'M-ONE', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'tire-seal', 'TIRE SEAL', '', NULL, 'TIRE SEAL', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'lubricant', 'LUBRICANT ', '', NULL, 'LUBRICANT ', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'battery-gs', 'BATTERY GS', '', NULL, 'BATTERY GS', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'battery-indopart', 'BATTERY INDOPART', '', NULL, 'BATTERY INDOPART', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'battery-schum', 'BATTERY SCHUM', '', NULL, 'BATTERY SCHUM', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'battery-yuasa', 'BATTERY YUASA', '', NULL, 'BATTERY YUASA', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'brake', 'BRAKE', '', NULL, 'BRAKE', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'soft-drink', 'SOFT DRINK', '', NULL, 'SOFT DRINK', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'food', 'FOOD', '', NULL, 'FOOD', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'drink-sosro', 'DRINK SOSRO', '', NULL, 'DRINK SOSRO', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'drink-asia-sejahtera', 'DRINK ASIA SEJAHTERA', '', NULL, 'DRINK ASIA SEJAHTERA', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'cigarette-ktg', 'CIGARETTE KT&G', '', NULL, 'CIGARETTE KT&G', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'pentil', 'PENTIL', '', NULL, 'PENTIL', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'chain-lube', 'CHAIN LUBE', '', NULL, 'CHAIN LUBE', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'contact-cleaner', 'CONTACT CLEANER', '', NULL, 'CONTACT CLEANER', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'cigarette-sampoerna', 'CIGARETTE SAMPOERNA', '', NULL, 'CIGARETTE SAMPOERNA', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'tool', 'tool', '', NULL, 'tool', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'tools-2', 'Tools 2', '', NULL, 'Tools 2', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>[SQL]=INSERT INTO categories 
+				(
+					ID, NAME, PARENTID, IMAGE, TEXTTIP, CATSHOWNAME
+				) 
+				VALUES 
+				(
+					'tools-3', 'Tools 3', '', NULL, 'Tools 3', '1'
+				)
+2015-12-03 10:59:06AM>[AFFECTED_ROWS]=1
+2015-12-03 10:59:06AM>DONE

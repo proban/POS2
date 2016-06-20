@@ -1,0 +1,9 @@
+2015-12-02 04:12:13PM>[SQL]=update customers set searchkey='pb0100021624' where id='f9f9be66-0d5b-4b28-9eb4-861243dff02c'
+2015-12-02 04:12:13PM>[ERROR]Duplicate entry 'pb0100021624' for key 'CUSTOMERS_SKEY_INX'
+2015-12-02 04:12:13PM>[SQL]=update customers set curdate=now() where curdate is null or curdate='0000-00-00 00:00:00'
+2015-12-02 04:12:13PM>[AFFECTED_ROWS]=3
+2015-12-02 04:12:13PM>[SQL]=update customers set date_regis=now() where date_regis is null or date_regis='0000-00-00 00:00:00'
+2015-12-02 04:12:13PM>[AFFECTED_ROWS]=0
+2015-12-02 04:12:13PM>[SQL]=update customers set date_exp=now() where date_exp is null or date_exp='0000-00-00 00:00:00'
+2015-12-02 04:12:13PM>[AFFECTED_ROWS]=0
+2015-12-02 04:12:13PM>DONE

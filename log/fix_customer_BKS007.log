@@ -1,0 +1,508 @@
+2015-12-02 01:23:08PM>[SQL]=
+		insert into customers_error (id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp )
+		select id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp 					
+		from customers where id='4bacb099-8874-4552-8197-751f4640ecfa'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=delete from customers where id='4bacb099-8874-4552-8197-751f4640ecfa'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=update customers set searchkey='PB0100006218' where id='b44421d8-8067-486e-b255-a1f06d97e354'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=
+		insert into customers_error (id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp )
+		select id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp 					
+		from customers where id='0166773c-6d1c-401a-acd8-2010eba63064'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=delete from customers where id='0166773c-6d1c-401a-acd8-2010eba63064'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=
+		insert into customers_error (id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp )
+		select id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp 					
+		from customers where id='0fdc9165-8cab-49f9-8c18-d300116a2da1'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=delete from customers where id='0fdc9165-8cab-49f9-8c18-d300116a2da1'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=
+		insert into customers_error (id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp )
+		select id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp 					
+		from customers where id='eac2418e-27c6-4bef-9633-d8f55545125c'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=delete from customers where id='eac2418e-27c6-4bef-9633-d8f55545125c'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=
+		insert into customers_error (id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp )
+		select id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp 					
+		from customers where id='23c1b44c-f830-4749-868e-f4b04a8bdc5a'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=delete from customers where id='23c1b44c-f830-4749-868e-f4b04a8bdc5a'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=
+		insert into customers_error (id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp )
+		select id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp 					
+		from customers where id='6eb49e5f-545c-4193-a5bc-8b3ebd267aaa'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=delete from customers where id='6eb49e5f-545c-4193-a5bc-8b3ebd267aaa'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=
+		insert into customers_error (id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp )
+		select id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp 					
+		from customers where id='9e7f417d-f2c0-40d9-9d51-c20aa4ce7ab1'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=delete from customers where id='9e7f417d-f2c0-40d9-9d51-c20aa4ce7ab1'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=
+		insert into customers_error (id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp )
+		select id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp 					
+		from customers where id='a257398e-c375-46a6-8e2d-0f3399a3aa5a'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=delete from customers where id='a257398e-c375-46a6-8e2d-0f3399a3aa5a'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=
+		insert into customers_error (id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp )
+		select id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp 					
+		from customers where id='b901a095-516a-49b7-9671-739512aa048b'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=delete from customers where id='b901a095-516a-49b7-9671-739512aa048b'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=
+		insert into customers_error (id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp )
+		select id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp 					
+		from customers where id='e1c31826-381f-4108-97d6-96b94d5820e9'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=delete from customers where id='e1c31826-381f-4108-97d6-96b94d5820e9'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=
+		insert into customers_error (id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp )
+		select id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp 					
+		from customers where id='c779aa64-3be6-4a5c-8a54-4ccd9978c8e0'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=delete from customers where id='c779aa64-3be6-4a5c-8a54-4ccd9978c8e0'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=
+		insert into customers_error (id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp )
+		select id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp 					
+		from customers where id='d02005a7-4c14-4fd9-b4f1-a724e3f42295'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=delete from customers where id='d02005a7-4c14-4fd9-b4f1-a724e3f42295'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=
+		insert into customers_error (id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp )
+		select id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp 					
+		from customers where id='cb508a08-7fd3-4092-b1ca-342a3c7defac'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=delete from customers where id='cb508a08-7fd3-4092-b1ca-342a3c7defac'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=
+		insert into customers_error (id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp )
+		select id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp 					
+		from customers where id='d4bee679-9593-4896-8f29-69907ff5f061'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=delete from customers where id='d4bee679-9593-4896-8f29-69907ff5f061'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=update customers set searchkey='PB0100022720' where id='2e904fea-7d83-4630-8412-9aeaa6a242f5'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=
+		insert into customers_error (id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp )
+		select id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp 					
+		from customers where id='856d8bd9-94d9-439a-b634-87b9105df833'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=delete from customers where id='856d8bd9-94d9-439a-b634-87b9105df833'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=
+		insert into customers_error (id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp )
+		select id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp 					
+		from customers where id='40e3f218-7433-44f9-8bfb-c0d1fd8fd5f2'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=delete from customers where id='40e3f218-7433-44f9-8bfb-c0d1fd8fd5f2'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=
+		insert into customers_error (id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp )
+		select id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp 					
+		from customers where id='ed35ddda-5a25-49b3-acb6-bfaaa9677ea4'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=delete from customers where id='ed35ddda-5a25-49b3-acb6-bfaaa9677ea4'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=update customers set searchkey='PB0100023874' where id='d62e790f-4500-466a-b397-e9385570ab04'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=
+		insert into customers_error (id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp )
+		select id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp 					
+		from customers where id='c7b240b7-8a73-429a-a44c-bfbfb437e6fd'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=delete from customers where id='c7b240b7-8a73-429a-a44c-bfbfb437e6fd'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=
+		insert into customers_error (id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp )
+		select id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp 					
+		from customers where id='3ae4a682-0c1a-4db4-b66e-23c62a777a3c'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=delete from customers where id='3ae4a682-0c1a-4db4-b66e-23c62a777a3c'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=
+		insert into customers_error (id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp )
+		select id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp 					
+		from customers where id='e23522e9-6fcc-4ecc-b12d-e6be728cd910'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=delete from customers where id='e23522e9-6fcc-4ecc-b12d-e6be728cd910'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=
+		insert into customers_error (id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp )
+		select id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp 					
+		from customers where id='a6a456ba-0f7b-4aa3-adfb-0847918ea1b0'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=delete from customers where id='a6a456ba-0f7b-4aa3-adfb-0847918ea1b0'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=
+		insert into customers_error (id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp )
+		select id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp 					
+		from customers where id='c840de90-d63f-493b-9da6-37cc7cd946f3'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=delete from customers where id='c840de90-d63f-493b-9da6-37cc7cd946f3'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=
+		insert into customers_error (id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp )
+		select id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp 					
+		from customers where id='f03c1d40-fc69-47bc-897f-0922993cfeb2'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=delete from customers where id='f03c1d40-fc69-47bc-897f-0922993cfeb2'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=
+		insert into customers_error (id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp )
+		select id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp 					
+		from customers where id='55a2d9cb-f305-4cd2-8437-1b4e05a5d1ef'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=delete from customers where id='55a2d9cb-f305-4cd2-8437-1b4e05a5d1ef'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=
+		insert into customers_error (id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp )
+		select id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp 					
+		from customers where id='373f624c-33d2-4fd5-9313-b228d034f6c6'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=delete from customers where id='373f624c-33d2-4fd5-9313-b228d034f6c6'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=
+		insert into customers_error (id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp )
+		select id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp 					
+		from customers where id='2aba9dbd-5d88-4298-b666-2b940321dded'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=delete from customers where id='2aba9dbd-5d88-4298-b666-2b940321dded'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=
+		insert into customers_error (id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp )
+		select id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp 					
+		from customers where id='444e376c-bf27-40ae-bb13-f271ec0f8b5a'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=delete from customers where id='444e376c-bf27-40ae-bb13-f271ec0f8b5a'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=
+		insert into customers_error (id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp )
+		select id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp 					
+		from customers where id='6801a3c8-71e0-4af6-8f8a-e901713fc217'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=delete from customers where id='6801a3c8-71e0-4af6-8f8a-e901713fc217'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=
+		insert into customers_error (id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp )
+		select id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp 					
+		from customers where id='17d72fc4-bb79-4728-8d65-ec57f2adc930'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=delete from customers where id='17d72fc4-bb79-4728-8d65-ec57f2adc930'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=
+		insert into customers_error (id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp )
+		select id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp 					
+		from customers where id='aa5a806d-e8a1-4645-9c74-2bae6db68286'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=delete from customers where id='aa5a806d-e8a1-4645-9c74-2bae6db68286'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=
+		insert into customers_error (id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp )
+		select id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp 					
+		from customers where id='18a2f4f4-38da-4e5a-8858-35015bd6d681'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=delete from customers where id='18a2f4f4-38da-4e5a-8858-35015bd6d681'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=
+		insert into customers_error (id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp )
+		select id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp 					
+		from customers where id='7b1a31da-f7d7-43ad-9253-48a997d9d328'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=delete from customers where id='7b1a31da-f7d7-43ad-9253-48a997d9d328'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=
+		insert into customers_error (id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp )
+		select id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp 					
+		from customers where id='7aca71f9-171d-4d6a-8f55-558ca72408d4'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=delete from customers where id='7aca71f9-171d-4d6a-8f55-558ca72408d4'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=1
+2015-12-02 01:23:08PM>[SQL]=update customers set curdate=now() where curdate is null or curdate='0000-00-00 00:00:00'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=183
+2015-12-02 01:23:08PM>[SQL]=update customers set date_regis=now() where date_regis is null or date_regis='0000-00-00 00:00:00'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=0
+2015-12-02 01:23:08PM>[SQL]=update customers set date_exp=now() where date_exp is null or date_exp='0000-00-00 00:00:00'
+2015-12-02 01:23:08PM>[AFFECTED_ROWS]=38
+2015-12-02 01:23:08PM>DONE

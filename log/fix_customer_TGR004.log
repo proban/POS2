@@ -1,0 +1,67 @@
+2015-12-02 05:58:48PM>[SQL]=
+		insert into customers_error (id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp )
+		select id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp 					
+		from customers where id='9a5a7557-abf3-4a76-8da6-5859d5004b07'
+2015-12-02 05:58:48PM>[ERROR]Duplicate entry '' for key 'CUSTOMERS_SKEY_INX'
+2015-12-02 05:58:48PM>[SQL]=delete from customers where id='9a5a7557-abf3-4a76-8da6-5859d5004b07'
+2015-12-02 05:58:48PM>[AFFECTED_ROWS]=1
+2015-12-02 05:58:48PM>[SQL]=
+		insert into customers_error (id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp )
+		select id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp 					
+		from customers where id='623d1d47-69b5-4431-8ea4-ad640518b2da'
+2015-12-02 05:58:48PM>[AFFECTED_ROWS]=1
+2015-12-02 05:58:48PM>[SQL]=delete from customers where id='623d1d47-69b5-4431-8ea4-ad640518b2da'
+2015-12-02 05:58:48PM>[AFFECTED_ROWS]=1
+2015-12-02 05:58:48PM>[SQL]=
+		insert into customers_error (id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp )
+		select id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp 					
+		from customers where id='87ef46f2-b3cb-4586-8683-2817d7e563bd'
+2015-12-02 05:58:48PM>[AFFECTED_ROWS]=1
+2015-12-02 05:58:48PM>[SQL]=delete from customers where id='87ef46f2-b3cb-4586-8683-2817d7e563bd'
+2015-12-02 05:58:48PM>[AFFECTED_ROWS]=1
+2015-12-02 05:58:48PM>[SQL]=
+		insert into customers_error (id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp )
+		select id, searchkey, taxid,name, taxcategory, card, maxdebt, address,
+		address2, postal,city, region, country, firstname, lastname,email, phone, phone2,
+		fax, notes, visible, curdate, curdebt, email2, birth, vehicle, sex, point, postal2, 
+		bike_brand, bike_type, tyre_brand, tyre_size, tyre_type, accu_brand, accu_type,
+		oil_brand, brake_type, date_regis,date_exp,point_tmp 					
+		from customers where id='79d4bb45-15e4-4f0b-87eb-e5a87159e366'
+2015-12-02 05:58:48PM>[AFFECTED_ROWS]=1
+2015-12-02 05:58:48PM>[SQL]=delete from customers where id='79d4bb45-15e4-4f0b-87eb-e5a87159e366'
+2015-12-02 05:58:48PM>[AFFECTED_ROWS]=1
+2015-12-02 05:58:48PM>[SQL]=update customers set curdate=now() where curdate is null or curdate='0000-00-00 00:00:00'
+2015-12-02 05:58:48PM>[AFFECTED_ROWS]=27
+2015-12-02 05:58:48PM>[SQL]=update customers set date_regis=now() where date_regis is null or date_regis='0000-00-00 00:00:00'
+2015-12-02 05:58:48PM>[AFFECTED_ROWS]=0
+2015-12-02 05:58:48PM>[SQL]=update customers set date_exp=now() where date_exp is null or date_exp='0000-00-00 00:00:00'
+2015-12-02 05:58:48PM>[AFFECTED_ROWS]=1
+2015-12-02 05:58:48PM>DONE
